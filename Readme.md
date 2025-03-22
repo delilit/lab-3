@@ -327,12 +327,13 @@ public class EnemyDragon : MonoBehaviour
 ```
 
 В результате мы получаем сбалансированный и интересные уровни. (10 уровень):
-![image](https://github.com/user-attachments/assets/c5f76b90-f2c2-4160-a314-274c321bb225)
+![image](https://github.com/user-attachments/assets/e74843d2-382e-4438-bf0e-3d69fd072e30)
 
 
 4. Скрипт на python, который я приложил, визуализирует изменения при помощи графиков.
 
-![image](https://github.com/user-attachments/assets/e74843d2-382e-4438-bf0e-3d69fd072e30)
+![image](https://github.com/user-attachments/assets/fe456f91-efd3-4b01-863d-a420e085abea)
+
 
 ## - Задание 3. Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать в проект Unity. В Python данные также должны быть визуализированы.
 
