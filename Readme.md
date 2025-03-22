@@ -332,8 +332,7 @@ public class EnemyDragon : MonoBehaviour
 
 4. Скрипт на python, который я приложил, визуализирует изменения при помощи графиков.
 
-![image](https://github.com/user-attachments/assets/8bf3e67b-6296-48d8-aba9-4b07d57efd2b)
-
+![image](https://github.com/user-attachments/assets/e74843d2-382e-4438-bf0e-3d69fd072e30)
 
 ## - Задание 3. Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать в проект Unity. В Python данные также должны быть визуализированы.
 
